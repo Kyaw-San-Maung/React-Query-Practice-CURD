@@ -1,3 +1,9 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "ec139787-a8e8-8fc3-55b6-1f5d3cdf864e",
+      "title": "Software Engineering",
+      "body": "Hi I am Kyaw San Maung. I am working as a Software Engineering in Dubai."
+    }
+  ]
 }

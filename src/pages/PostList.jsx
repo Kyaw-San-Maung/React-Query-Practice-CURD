@@ -55,7 +55,7 @@ export const PostList = () => {
             </button>
             <button
               style={{ marginRight: "10px", cursor: "pointer" }}
-              onClick={handleDeletePost(post.id)}
+              onClick={() => handleDeletePost(post.id)}
             >
               Delete
             </button>
