@@ -10,8 +10,9 @@ export const PostList = () => {
     queryFn: fetchPost,
   });
 
-  if (isLoading) return <h2>Loading....</h2>;
+  //Mutation for Delete operation
 
+  if (isLoading) return <h2>Loading....</h2>;
   if (isError) return `Error: ${error.message}`;
 
   return (
