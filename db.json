@@ -1,29 +1,3 @@
 {
-  "posts": [
-    {
-      "id": "1",
-      "title": "Software Engineer",
-      "body": "Hi I am Kyaw San Maung. I am working as SE in Dubai Tech company."
-    },
-    {
-      "id": "2",
-      "title": "Frontend Developer",
-      "body": "Hi I am Min Khant. I am working as Frontend Developer in Dubai Tech company."
-    },
-    {
-      "id": "3",
-      "title": "Frontend Engineer",
-      "body": "Hi I am Yell Min Thu. I am working as Frontend Engineer in Dubai Tech company."
-    },
-    {
-      "id": "4ad7fe41-bdef-8b10-4563-886b2d0adc5a",
-      "title": "UI/UX",
-      "body": "Hi I am Aye Chan Myat. I am working as a UI/UX designer from Dubai."
-    },
-    {
-      "id": "e8067763-fd24-49a8-516c-de972272058c",
-      "title": "Digital Marketing",
-      "body": "Hi I am Htet Shwe Yee Win. I am working as a Digital Marketing Manager in Dubai Tech Company."
-    }
-  ]
+  "posts": []
 }
