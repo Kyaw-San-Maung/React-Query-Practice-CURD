@@ -2,8 +2,8 @@ import { useState } from "react";
 
 const PostForm = ({ onSubmit, initialiValue }) => {
   const [post, setPost] = useState({
-    title: initialiValue.title || "",
-    body: initialiValue.body || "",
+    title: initialiValue.title || "", //I don't know why am i getting error in this part.
+    body: initialiValue.body || "", // I don't know why am i getting error in this part.
   });
 
   const handleChangeInput = (e) => {
